@@ -1,1 +1,5 @@
 .ReAuth.cfg
+logs/*
+crash-reports/*
+saves/*
+journeymap/journeymap.log
