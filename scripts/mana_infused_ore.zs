@@ -1,0 +1,1 @@
+mods.mekanism.chemical.injection.addRecipe(<botania:manaresource>, <gas:sulfuricAcid>, <thermalfoundation:material:136>);
