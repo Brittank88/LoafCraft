@@ -1,0 +1,58 @@
+# Configuration file
+
+~CONFIG_VERSION: 0.1.0
+
+world1018113401 {
+    B:bookmarkOverlayEnabled=true
+    B:cheatItemsEnabled=false
+    B:editEnabled=false
+    S:filterText=
+    B:overlayEnabled=true
+}
+
+
+world1544803905 {
+    S:filterText=
+}
+
+
+world1787624906 {
+    B:bookmarkOverlayEnabled=false
+    B:cheatItemsEnabled=true
+
+    # Hide and unhide ingredients by clicking them in the list.
+    B:editEnabled=false
+<<<<<<< Updated upstream
+    S:filterText=cryo
+=======
+    S:filterText=singularity
+>>>>>>> Stashed changes
+
+    # Show the list of ingredients next to open GUIs.
+    B:overlayEnabled=true
+}
+
+
+<<<<<<< Updated upstream
+world66236263 {
+    B:bookmarkOverlayEnabled=true
+    B:cheatItemsEnabled=true
+    B:editEnabled=false
+    S:filterText=creative buffer
+    B:overlayEnabled=true
+}
+
+
+world96774023 {
+    B:bookmarkOverlayEnabled=true
+=======
+world96774023 {
+    B:bookmarkOverlayEnabled=true
+>>>>>>> Stashed changes
+    B:cheatItemsEnabled=false
+    B:editEnabled=false
+    S:filterText=
+    B:overlayEnabled=true
+}
+
+
