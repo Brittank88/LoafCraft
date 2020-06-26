@@ -1,0 +1,9 @@
+mods.extendedcrafting.TableCrafting.addShapedMirrored(0, <mekanism:gastank>.withTag({tier: 4}), [
+	[<ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <extracells:part.base:16>, <mekanism:transmitter:2>.withTag({tier: 3}), <advancedrocketry:intake>, <mekanism:transmitter:2>.withTag({tier: 3}), <extracells:part.base:16>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <mekanism:transmitter:2>.withTag({tier: 3}), <mekanism:gastank>.withTag({tier: 3}), <extracells:storage.component:17>, <mekanism:gastank>.withTag({tier: 2}), <mekanism:transmitter:2>.withTag({tier: 3}), <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <mekanism:gasupgrade>, <extracells:storage.component:17>, <thermalfoundation:upgrade:256>, <extracells:storage.component:17>, <mekanism:gasupgrade>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <mekanism:transmitter:2>.withTag({tier: 3}), <mekanism:gastank>.withTag({tier: 0}), <extracells:storage.component:17>, <mekanism:gastank>.withTag({tier: 1}), <mekanism:transmitter:2>.withTag({tier: 3}), <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <extracells:part.base:16>, <mekanism:transmitter:2>.withTag({tier: 3}), <mekanism:gasupgrade>, <mekanism:transmitter:2>.withTag({tier: 3}), <extracells:part.base:16>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>]
+]);

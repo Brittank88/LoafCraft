@@ -1,0 +1,9 @@
+mods.extendedcrafting.TableCrafting.addShapedMirrored(0, <mekanism:machineblock2:11>.withTag({tier: 4}), [
+	[<ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <industrialforegoing:black_hole_tank>, <techreborn:quantum_tank>, <appliedenergistics2:part:321>, <techreborn:matter_fabricator>, <industrialforegoing:black_hole_tank>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <techreborn:matter_fabricator>, <extendedcrafting:singularity_ultimate>, <projectex:final_star>, <extendedcrafting:singularity_ultimate>, <techreborn:quantum_tank>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <appliedenergistics2:part:302>, <mekanism:machineblock2:11>.withTag({tier: 1}), <thermalfoundation:upgrade:256>, <mekanism:machineblock2:11>.withTag({tier: 3}), <appliedenergistics2:part:302>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <techreborn:quantum_tank>, <mekanism:machineblock2:11>.withTag({tier: 0}), <extrautils2:trashcanfluid>, <mekanism:machineblock2:11>.withTag({tier: 2}), <techreborn:matter_fabricator>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <industrialforegoing:black_hole_tank>, <techreborn:matter_fabricator>, <appliedenergistics2:part:321>, <techreborn:quantum_tank>, <industrialforegoing:black_hole_tank>, <ore:blockLuminessence>], 
+	[<ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>, <ore:blockLuminessence>]
+]);

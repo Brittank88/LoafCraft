@@ -1,0 +1,11 @@
+mods.extendedcrafting.TableCrafting.addShapedMirrored(0, <extrautils2:itemcreativebuilderswand>, [
+	[null, null, null, null, <ore:dye>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>], 
+	[null, null, null, <ore:dye>, <extendedcrafting:material:7>, <industrialforegoing:block_placer>, <actuallyadditions:block_placer>, <actuallyadditions:block_phantom_placer>, <extendedcrafting:material:7>], 
+	[null, null, <ore:dye>, <extendedcrafting:material:7>, <ore:essenceInsanium>, <industrialforegoing:range_addon:11>, <portalgun:item_miniature_black_hole>, <openblocks:block_placer>, <extendedcrafting:material:7>], 
+	[null, <ore:dye>, <extendedcrafting:material:7>, <ore:essenceInsanium>, <ore:circuitUltimate>, <extendedcrafting:singularity:50>, <industrialforegoing:range_addon:11>, <projectred-expansion:machine2:2>, <extendedcrafting:material:7>], 
+	[<ore:dye>, <extendedcrafting:material:7>, <ore:essenceInsanium>, <tconstruct:tool_rod>.withTag({Material: "manyullyn"}), <appliedenergistics2:material:48>, <ore:circuitUltimate>, <ore:essenceInsanium>, <extendedcrafting:material:7>, <ore:dye>], 
+	[<extendedcrafting:material:7>, <ore:essenceInsanium>, <tconstruct:tool_rod>.withTag({Material: "manyullyn"}), <appliedenergistics2:material:43>, <tconstruct:tool_rod>.withTag({Material: "manyullyn"}), <ore:essenceInsanium>, <extendedcrafting:material:7>, <ore:dye>, null], 
+	[<extendedcrafting:material:7>, <tconstruct:tool_rod>.withTag({Material: "manyullyn"}), <appliedenergistics2:material:43>, <tconstruct:tool_rod>.withTag({Material: "manyullyn"}), <ore:essenceInsanium>, <extendedcrafting:material:7>, <ore:dye>, null, null], 
+	[<extendedcrafting:material:7>, <mysticalagriculture:gear:4>, <tconstruct:tool_rod>.withTag({Material: "manyullyn"}), <ore:essenceInsanium>, <extendedcrafting:material:7>, <ore:dye>, null, null, null], 
+	[<extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <ore:dye>, null, null, null, null]
+]);
