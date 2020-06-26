@@ -6,6 +6,7 @@ config.json
 manifest.json
 options.txt
 servers.dat
+patchouli_data.json
 
 # Folders
 logs/
