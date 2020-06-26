@@ -1,5 +1,17 @@
+# Files
 .ReAuth.cfg
+crafttweaker.log
+BotaniaVars.dat
+config.json
+manifest.json
+options.txt
+servers.dat
+
+# Folders
 logs/
 crash-reports/
 saves/
-journeymap/journeymap.log
+journeymap/
+.mixin.out/
+astralsorcery/
+natives/
