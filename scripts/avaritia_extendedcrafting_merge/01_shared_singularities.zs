@@ -1,5 +1,5 @@
-import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDictEntry;
 
 // Remove the neutronium compressor recipe, as we will be using the other compressor.
 mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);
@@ -14,7 +14,7 @@ for ec_singularity_entry in <extendedcrafting:singularity>.definition.subItems {
     var ec_singularity as IItemStack = ec_singularity_entry;
 
     // Get the type of the singularity from its name.
-    var type as string = "ore:singularity"~ec_singularity.name.replace(" Singularity", "");
+    var type as string = ec_singularity.name.replace(" Singularity", "");
 
     // Remove the original compression recipe for this singularity.
     mods.extendedcrafting.CompressionCrafting.remove(ec_singularity);
@@ -29,7 +29,7 @@ for ec_singularity_entry in <extendedcrafting:singularity>.definition.subItems {
     );
 
     // Construct an oredict entry from the type.
-    var ore_dict as IOreDictEntry = itemUtils.getItem(type);
+    var ore_dict as IOreDictEntry = oreDict["singularity"~type];
     
     // Add the oredict entry to the EC singularity.
     ore_dict.add(ec_singularity);
