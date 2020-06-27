@@ -1,0 +1,1 @@
+mods.techreborn.chemicalReactor.addRecipe(<extendedcrafting:material:7>, <techreborn:dynamiccell>.withTag({Fluid: {FluidName: "astralsorcery.liquidstarlight", Amount: 1000}}), <techreborn:dynamiccell>.withTag({Fluid: {FluidName: "liquid_sunshine", Amount: 1000}}), 100, 80);

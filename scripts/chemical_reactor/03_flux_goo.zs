@@ -1,0 +1,1 @@
+mods.techreborn.chemicalReactor.addRecipe(<techreborn:dynamiccell>.withTag({Fluid: {FluidName: "flux_goo", Amount: 1000}}), <techreborn:dynamiccell>.withTag({Fluid: {FluidName: "liquid_death", Amount: 1000}}), <techreborn:part:46>, 200, 250);
