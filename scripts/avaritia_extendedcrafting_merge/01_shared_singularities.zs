@@ -25,7 +25,7 @@ for ec_singularity_entry in <extendedcrafting:singularity>.definition.subItems {
         ec_singularity,
         10000,
         <extendedcrafting:material:13>,
-        2000000
+        5000000
     );
 
     // Construct an oredict entry from the type.
