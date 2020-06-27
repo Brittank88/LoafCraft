@@ -36,6 +36,7 @@ for ec_singularity_entry in ec_singularity_def.subItems {
     var ore_dict as IOreDictEntry = oreDict["singularity"~type];
     
     // Add the oredict entry to the EC singularity.
+    print(ec_singularity);
     ore_dict.add(ec_singularity);
 
     // Get the equivalent Avaritia singularity if it exists.
