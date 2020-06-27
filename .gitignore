@@ -7,6 +7,8 @@ manifest.json
 options.txt
 servers.dat
 patchouli_data.json
+usercache.json
+usernamecache.json
 
 # Folders
 logs/
