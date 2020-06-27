@@ -1,5 +1,6 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDictEntry;
+import crafttweaker.item.IItemDefinition;
 
 // Remove the neutronium compressor recipe, as we will be using the other compressor.
 mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);
@@ -7,8 +8,11 @@ mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);
 // Remove all singularity recipes from the compressor so it is clear they are not crafted there anymore.
 mods.avaritia.Compressor.remove(<avaritia:singularity>);
 
+// Get the definition for Extended Crafting singularities.
+val ec_singularity_def as IItemDefinition = <extendedcrafting:singularity>.definition;
+
 // Extended Crafting has more singularity types than (and entirely overlaps with) Avaritia.
-for ec_singularity_entry in <extendedcrafting:singularity>.definition.subItems {
+for ec_singularity_entry in ec_singularity_def.subItems {
 
     // Cast the singularity to IItemStack.
     var ec_singularity as IItemStack = ec_singularity_entry;
