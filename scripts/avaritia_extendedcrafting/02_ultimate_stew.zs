@@ -1,3 +1,5 @@
+mods.avaritia.ExtremeCrafting.remove(<avaritia:ultimate_stew>);
+
 mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:ultimate_stew> * 9, [
 	[<ore:foodDeluxecheeseburger>, <ore:foodBeansontoast>, <ore:foodMeatpie>, <ore:foodChikoroll>, <ore:foodSpinachpie>, <ore:foodColeslawburger>, <ore:foodHotandsoursoup>, <ore:foodPatreonpie>, <ore:foodChilidog>], 
 	[<ore:foodTunafishsandwich>, <ore:foodClamchowder>, <ore:foodBreakfastburrito>, <ore:foodChipsandsalsa>, <ore:foodCrawfishetoufee>, <ore:foodSaucedlambkebab>, <ore:foodCantonesenoodles>, <ore:foodDango>, <ore:foodTakoyaki>], 

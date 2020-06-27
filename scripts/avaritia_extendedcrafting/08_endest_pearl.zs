@@ -1,3 +1,5 @@
+mods.avaritia.ExtremeCrafting.remove(<avaritia:endest_pearl>);
+
 mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:endest_pearl>, [
 	[null, null, null, <minecraft:end_stone>, <minecraft:end_stone>, <minecraft:end_stone>, null, null, null], 
 	[null, <minecraft:end_stone>, <minecraft:end_stone>, <minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:end_stone>, <minecraft:end_stone>, null], 

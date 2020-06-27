@@ -1,3 +1,5 @@
+mods.avaritia.ExtremeCrafting.remove(<avaritia:resource:5>);
+
 mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:resource:5>, [
 	[<extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>, <extendedcrafting:material:7>], 
 	[<extendedcrafting:material:7>, <extendedcrafting:material:12>, <extendedcrafting:material:11>, <openblocks:tank>.withTag({tank: {FluidName: "mana", Amount: 16000}}), <openblocks:tank>.withTag({tank: {FluidName: "mana", Amount: 16000}}), <openblocks:tank>.withTag({tank: {FluidName: "mana", Amount: 16000}}), <extendedcrafting:material:11>, <extendedcrafting:material:12>, <extendedcrafting:material:7>], 

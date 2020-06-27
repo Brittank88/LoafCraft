@@ -1,3 +1,5 @@
+mods.avaritia.ExtremeCrafting.remove(<avaritia:neutron_collector>);
+
 mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:neutron_collector>, [
 	[<ore:blockIron>, <ore:blockIron>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockIron>, <ore:blockIron>], 
 	[<ore:blockIron>, null, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, <ore:blockQuartz>, null, <ore:blockIron>], 
