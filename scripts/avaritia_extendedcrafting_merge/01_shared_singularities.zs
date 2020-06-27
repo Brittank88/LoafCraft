@@ -8,6 +8,10 @@ mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);
 // Remove all singularity recipes from the compressor so it is clear they are not crafted there anymore.
 mods.avaritia.Compressor.remove(<avaritia:singularity>);
 
+
+
+
+
 // Get the definition for Extended Crafting singularities.
 val ec_singularity_def as IItemDefinition = <extendedcrafting:singularity>.definition;
 
@@ -25,8 +29,8 @@ for ec_singularity_entry in ec_singularity_def.subItems {
 
     // Add our new recipe for the singularity.
     mods.extendedcrafting.CompressionCrafting.addRecipe(
-        itemUtils.getItem("ore:ingot"~type),
         ec_singularity,
+        oreDict["ingot"~type],
         10000,
         <extendedcrafting:material:13>,
         5000000000
