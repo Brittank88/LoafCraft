@@ -1,3 +1,5 @@
+mods.avaritia.ExtremeCrafting.remove(<avaritia:skullfire_sword>);
+
 mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:skullfire_sword>, [
 	[null, null, null, null, null, null, null, <ore:ingotCrystalMatrix>, <ore:powderBlaze>], 
 	[null, null, null, null, null, null, <ore:ingotCrystalMatrix>, <ore:powderBlaze>, <ore:ingotCrystalMatrix>], 

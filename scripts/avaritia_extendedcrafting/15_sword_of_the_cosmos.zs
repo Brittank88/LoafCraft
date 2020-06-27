@@ -1,3 +1,5 @@
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_sword>);
+
 mods.extendedcrafting.TableCrafting.addShaped(0, <avaritia:infinity_sword>, [
 	[null, null, null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>], 
 	[null, null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>], 
