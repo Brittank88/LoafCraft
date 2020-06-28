@@ -7,5 +7,5 @@ mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);
 mods.jei.JEI.hide(<avaritia:neutronium_compressor>);
 
 // Remove all singularity recipes and JEI entries.
-mods.avaritia.Compressor.remove(<avaritia:singularity>);
-mods.jei.JEI.hide(<avaritia:singularity>);
+mods.avaritia.Compressor.remove(<avaritia:singularity:*>);
+mods.jei.JEI.hide(<avaritia:singularity:*>);
