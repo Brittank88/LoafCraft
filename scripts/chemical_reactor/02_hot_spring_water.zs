@@ -1,1 +1,0 @@
-mods.techreborn.chemicalReactor.addRecipe(<techreborn:dynamiccell>.withTag({Fluid: {FluidName: "hot_spring_water", Amount: 1000}}), <techreborn:dynamiccell>.withTag({Fluid: {FluidName: "purifying_fluid", Amount: 1000}}), <techreborn:dynamiccell>.withTag({Fluid: {FluidName: "fluidheliumplasma", Amount: 1000}}), 200, 10);

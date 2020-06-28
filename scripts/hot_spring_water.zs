@@ -1,0 +1,1 @@
+mods.mekanism.reaction.addRecipe(<thermalexpansion:florb>.withTag({Fluid: "purifying_fluid"}), <liquid:fluidheliumplasma> * 10, <gas:water> * 1000, <thermalexpansion:florb>.withTag({Fluid: "hot_spring_water"}), <gas:tritium>, 50000, 2000);

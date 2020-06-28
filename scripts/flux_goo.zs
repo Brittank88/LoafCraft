@@ -1,0 +1,1 @@
+mods.mekanism.reaction.addRecipe(<thermalexpansion:florb>.withTag({Fluid: "fluidbiofuel"}), <liquid:liquid_death> * 100, <gas:oxygen> * 250, <thermalexpansion:florb>.withTag({Fluid: "flux_goo"}), <gas:chlorine> * 500, 50000, 2000);
