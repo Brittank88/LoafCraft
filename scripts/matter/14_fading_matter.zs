@@ -1,0 +1,13 @@
+recipes.remove(<projectex:matter:11>);
+
+mods.extendedcrafting.TableCrafting.addShaped(0, <projectex:matter:11>, [
+	[<projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <ore:blockCosmicNeutronium>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>], 
+	[<projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <ore:blockCosmicNeutronium>, <extendedcrafting:singularity_ultimate>, <ore:blockCosmicNeutronium>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>], 
+	[<projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <ore:blockCosmicNeutronium>, <extendedcrafting:singularity_ultimate>, <avaritia:resource:5>, <extendedcrafting:singularity_ultimate>, <ore:blockCosmicNeutronium>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>], 
+	[<projecte:item.pe_fuel:2>, <ore:blockCosmicNeutronium>, <extendedcrafting:singularity_ultimate>, <avaritia:resource:5>, <ore:ingotInfinity>, <avaritia:resource:5>, <extendedcrafting:singularity_ultimate>, <ore:blockCosmicNeutronium>, <projecte:item.pe_fuel:2>], 
+	[<ore:blockCosmicNeutronium>, <extendedcrafting:singularity_ultimate>, <avaritia:resource:5>, <ore:ingotInfinity>, <projectex:matter:10>, <ore:ingotInfinity>, <avaritia:resource:5>, <extendedcrafting:singularity_ultimate>, <ore:blockCosmicNeutronium>], 
+	[<projecte:item.pe_fuel:2>, <ore:blockCosmicNeutronium>, <extendedcrafting:singularity_ultimate>, <avaritia:resource:5>, <ore:ingotInfinity>, <avaritia:resource:5>, <extendedcrafting:singularity_ultimate>, <ore:blockCosmicNeutronium>, <projecte:item.pe_fuel:2>], 
+	[<projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <ore:blockCosmicNeutronium>, <extendedcrafting:singularity_ultimate>, <avaritia:resource:5>, <extendedcrafting:singularity_ultimate>, <ore:blockCosmicNeutronium>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>], 
+	[<projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <ore:blockCosmicNeutronium>, <extendedcrafting:singularity_ultimate>, <ore:blockCosmicNeutronium>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>], 
+	[<projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <ore:blockCosmicNeutronium>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>, <projecte:item.pe_fuel:2>]
+]);
