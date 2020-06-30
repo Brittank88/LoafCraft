@@ -3,6 +3,70 @@
     {
       "item": "forge:bucketfilled|0",
       "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_matter|0",
+      "emc": 10000
+    },
+    {
+      "item": "projecte:item.pe_matter|1",
+      "emc": 100000
+    },
+    {
+      "item": "projectex:matter|0",
+      "emc": 1000000
+    },
+    {
+      "item": "projectex:matter|1",
+      "emc": 10000000
+    },
+    {
+      "item": "projectex:matter|2",
+      "emc": 100000000
+    },
+    {
+      "item": "projectex:matter|3",
+      "emc": 1000000000
+    },
+    {
+      "item": "projectex:matter|4",
+      "emc": 10000000000
+    },
+    {
+      "item": "projectex:matter|5",
+      "emc": 100000000000
+    },
+    {
+      "item": "projectex:matter|6",
+      "emc": 1000000000000
+    },
+    {
+      "item": "projectex:matter|7",
+      "emc": 10000000000000
+    },
+    {
+      "item": "projectex:matter|8",
+      "emc": 100000000000000
+    },
+    {
+      "item": "projectex:matter|9",
+      "emc": 1000000000000000
+    },
+    {
+      "item": "projectex:matter|10",
+      "emc": 10000000000000000
+    },
+    {
+      "item": "projectex:matter|11",
+      "emc": 100000000000000000
+    },
+    {
+      "item": "projectex:final_star_shard|0",
+      "emc": 1000000000000000000
+    },
+    {
+      "item": "projectex:final_star|0",
+      "emc": 8000000000000000000
     }
   ]
 }
