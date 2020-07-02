@@ -1,1 +1,1 @@
-mods.thermalexpansion.Crucible.addRecipe(<liquid:mana> * 1000, <thermalfoundation:material:136>, 50);
+mods.thermalexpansion.Crucible.addRecipe(<liquid:mana> * 1000, <thermalfoundation:material:136>, 2000);

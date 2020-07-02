@@ -1,0 +1,1 @@
+mods.mekanism.reaction.addRecipe(<thaumcraft:mind>, <liquid:mana> * 1000, <gas:hydrogenchloride> * 250, <twilightforest:maze_map_focus>, <gas:hydrogen> * 500, 50000, 2000);
