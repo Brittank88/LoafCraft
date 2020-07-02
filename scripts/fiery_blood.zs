@@ -1,0 +1,1 @@
+mods.mekanism.reaction.addRecipe(<techreborn:dynamiccell>.withTag({Fluid: {FluidName: "fluidnitrodiesel", Amount: 1000}}), <liquid:lifeessence> * 1000, <gas:oxygen> * 250, <twilightforest:fiery_blood>, <gas:water> * 500, 50000, 2000);
