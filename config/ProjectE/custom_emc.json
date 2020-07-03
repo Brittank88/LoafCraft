@@ -6,67 +6,507 @@
     },
     {
       "item": "projecte:item.pe_matter|0",
-      "emc": 10000
+      "emc": 85218
     },
     {
       "item": "projecte:item.pe_matter|1",
-      "emc": 100000
+      "emc": 2447906
     },
     {
       "item": "projectex:matter|0",
-      "emc": 1000000
+      "emc": 6480674
     },
     {
       "item": "projectex:matter|1",
-      "emc": 10000000
+      "emc": 128557242
     },
     {
       "item": "projectex:matter|2",
-      "emc": 100000000
+      "emc": 473029318
     },
     {
       "item": "projectex:matter|3",
-      "emc": 1000000000
+      "emc": 412792085190
     },
     {
       "item": "projectex:matter|4",
-      "emc": 10000000000
+      "emc": 412803848902
     },
     {
       "item": "projectex:matter|5",
-      "emc": 100000000000
+      "emc": 412861209182
     },
     {
       "item": "projectex:matter|6",
-      "emc": 1000000000000
+      "emc": 412946464138
     },
     {
       "item": "projectex:matter|7",
-      "emc": 10000000000000
+      "emc": 413754940098
     },
     {
       "item": "projectex:matter|8",
-      "emc": 100000000000000
+      "emc": 414715231794
     },
     {
       "item": "projectex:matter|9",
-      "emc": 1000000000000000
+      "emc": 418520286738
     },
     {
       "item": "projectex:matter|10",
-      "emc": 10000000000000000
+      "emc": 420384294418
     },
     {
       "item": "projectex:matter|11",
-      "emc": 100000000000000000
+      "emc": 511393312502
     },
     {
       "item": "projectex:final_star_shard|0",
-      "emc": 1000000000000000000
+      "emc": 3379676054281542
     },
     {
       "item": "projectex:final_star|0",
       "emc": 8000000000000000000
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 260
+    },
+    {
+      "item": "projecte:item.pe_fuel|0",
+      "emc": 512
+    },
+    {
+      "item": "projecte:item.pe_fuel|1",
+      "emc": 2048
+    },
+    {
+      "item": "projecte:item.pe_fuel|2",
+      "emc": 8192
+    },
+    {
+      "item": "projectex:power_flower|0",
+      "emc": 1846
+    },
+    {
+      "item": "projectex:power_flower|1",
+      "emc": 89364
+    },
+    {
+      "item": "bloodmagic:blood_orb|0",
+      "emc": 19632
+    },
+    {
+      "item": "draconicevolution:draconium_ingot|0",
+      "emc": 16384
+    },
+    {
+      "item": "draconicevolution:dragon_heart|0",
+      "emc": 1000000
+    },
+    {
+      "item": "extrautils2:ingredients|4",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:experience_bottle|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:elytra|0",
+      "emc": 1024
+    },
+    {
+      "item": "projectex:power_flower|2",
+      "emc": 2449684
+    },
+    {
+      "item": "projectex:power_flower|3",
+      "emc": 6482388
+    },
+    {
+      "item": "projectex:power_flower|4",
+      "emc": 128581736
+    },
+    {
+      "item": "thermalfoundation:material|2048",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 416
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 432
+    },
+    {
+      "item": "draconicevolution:draconic_ingot|0",
+      "emc": 57815
+    },
+    {
+      "item": "draconicevolution:awakened_core|0",
+      "emc": 2558259
+    },
+    {
+      "item": "extrautils2:decorativesolid|8",
+      "emc": 1
+    },
+    {
+      "item": "draconicevolution:chaos_shard|3",
+      "emc": 262144
+    },
+    {
+      "item": "botania:manaresource|5",
+      "emc": 278528
+    },
+    {
+      "item": "techreborn:plates|36",
+      "emc": 403
+    },
+    {
+      "item": "techreborn:plates|2",
+      "emc": 512
+    },
+    {
+      "item": "techreborn:part|0",
+      "emc": 20971
+    },
+    {
+      "item": "techreborn:ingot|15",
+      "emc": 4096
+    },
+    {
+      "item": "techreborn:plates|38",
+      "emc": 42572
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 8192
+    },
+    {
+      "item": "mekanism:otherdust|0",
+      "emc": 8192
+    },
+    {
+      "item": "thaumcraft:ingot|1",
+      "emc": 4096
+    },
+    {
+      "item": "thaumcraft:void_seed|0",
+      "emc": 3964
+    },
+    {
+      "item": "thaumcraft:taint_fibre|0",
+      "emc": 1909
+    },
+    {
+      "item": "thaumcraft:taint_crust|0",
+      "emc": 1909
+    },
+    {
+      "item": "techreborn:part|40",
+      "emc": 1344
+    },
+    {
+      "item": "techreborn:part|41",
+      "emc": 3516
+    },
+    {
+      "item": "techreborn:part|43",
+      "emc": 7804
+    },
+    {
+      "item": "appliedenergistics2:material|10",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|326",
+      "emc": 4096
+    },
+    {
+      "item": "appliedenergistics2:material|22",
+      "emc": 3392
+    },
+    {
+      "item": "appliedenergistics2:material|23",
+      "emc": 3580
+    },
+    {
+      "item": "appliedenergistics2:material|24",
+      "emc": 15996
+    },
+    {
+      "item": "thaumcraft:primordial_pearl|0",
+      "emc": 277
+    },
+    {
+      "item": "thaumcraft:metal_alchemical_advanced|0",
+      "emc": 10123
+    },
+    {
+      "item": "thaumcraft:salis_mundus|0",
+      "emc": 256
+    },
+    {
+      "item": "thaumcraft:metal_alchemical|0",
+      "emc": 763
+    },
+    {
+      "item": "thaumcraft:tube|0",
+      "emc": 73
+    },
+    {
+      "item": "thaumcraft:tube_valve|0",
+      "emc": 78
+    },
+    {
+      "item": "thaumcraft:quicksilver|0",
+      "emc": 512
+    },
+    {
+      "item": "thaumcraft:ingot|2",
+      "emc": 256
+    },
+    {
+      "item": "techreborn:ingot|1",
+      "emc": 160
+    },
+    {
+      "item": "techreborn:ingot|18",
+      "emc": 256
+    },
+    {
+      "item": "avaritia:resource|2",
+      "emc": 2048
+    },
+    {
+      "item": "bloodmagic:slate|4",
+      "emc": 2451
+    },
+    {
+      "item": "bloodmagic:slate|3",
+      "emc": 1151
+    },
+    {
+      "item": "bloodmagic:slate|2",
+      "emc": 401
+    },
+    {
+      "item": "bloodmagic:slate|1",
+      "emc": 151
+    },
+    {
+      "item": "bloodmagic:slate|0",
+      "emc": 51
+    },
+    {
+      "item": "draconicevolution:chaotic_core|0",
+      "emc": 201567272
+    },
+    {
+      "item": "extendedcrafting:singularity|50",
+      "emc": 24320000
+    },
+    {
+      "item": "draconicevolution:reactor_core|0",
+      "emc": 191383388
+    },
+    {
+      "item": "botania:manaresource|0",
+      "emc": 256
+    },
+    {
+      "item": "extendedcrafting:singularity_custom|74",
+      "emc": 3740000
+    },
+    {
+      "item": "astralsorcery:itemcraftingcomponent|1",
+      "emc": 374
+    },
+    {
+      "item": "extendedcrafting:singularity_custom|72",
+      "emc": 282880000
+    },
+    {
+      "item": "botania:manaresource|4",
+      "emc": 28288
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 320
+    },
+    {
+      "item": "botania:manaresource|1",
+      "emc": 1600
+    },
+    {
+      "item": "botania:manaresource|2",
+      "emc": 12288
+    },
+    {
+      "item": "extendedcrafting:singularity|66",
+      "emc": 20480000
+    },
+    {
+      "item": "extendedcrafting:singularity_custom|73",
+      "emc": 5120000
+    },
+    {
+      "item": "extendedcrafting:singularity_custom|70",
+      "emc": 163840000
+    },
+    {
+      "item": "extendedcrafting:singularity_custom|68",
+      "emc": 40960000
+    },
+    {
+      "item": "botania:manaresource|7",
+      "emc": 512
+    },
+    {
+      "item": "thermalexpansion:florb|0",
+      "emc": 17
+    },
+    {
+      "item": "thermalfoundation:material|864",
+      "emc": 32
+    },
+    {
+      "item": "thermalfoundation:material|800",
+      "emc": 4
+    },
+    {
+      "item": "extendedcrafting:material|7",
+      "emc": 2401
+    },
+    {
+      "item": "avaritia:endest_pearl|0",
+      "emc": 835608
+    },
+    {
+      "item": "extendedcrafting:material|24",
+      "emc": 141188
+    },
+    {
+      "item": "extendedcrafting:material|40",
+      "emc": 144896
+    },
+    {
+      "item": "extendedcrafting:material|48",
+      "emc": 37502
+    },
+    {
+      "item": "extendedcrafting:material|49",
+      "emc": 4166
+    },
+    {
+      "item": "extendedcrafting:material|33",
+      "emc": 5430024
+    },
+    {
+      "item": "avaritia:cosmic_meatballs|0",
+      "emc": 8192
+    },
+    {
+      "item": "avaritia:ultimate_stew|0",
+      "emc": 1000000
+    },
+    {
+      "item": "minecraft:bread|0",
+      "emc": 26
+    },
+    {
+      "item": "extendedcrafting:singularity_ultimate|0",
+      "emc": 1391840000
+    },
+    {
+      "item": "thermalfoundation:material|2052",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2050",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2053",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|2051",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 576
+    },
+    {
+      "item": "techreborn:ingot|14",
+      "emc": 8192
+    },
+    {
+      "item": "techreborn:ingot|3",
+      "emc": 16384
+    },
+    {
+      "item": "thaumcraft:bath_salts|0",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|772",
+      "emc": 32
+    },
+    {
+      "item": "thermalfoundation:material|1026",
+      "emc": 432
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 424
+    },
+    {
+      "item": "avaritia:resource|5",
+      "emc": 1427867357
+    },
+    {
+      "item": "avaritia:resource|6",
+      "emc": 15714945919
+    },
+    {
+      "item": "botania:laputashard|0",
+      "emc": 844288
+    },
+    {
+      "item": "thaumcraft:causality_collapser|0",
+      "emc": 32768
+    },
+    {
+      "item": "projecte:condenser_mk1|0",
+      "emc": 207414
+    },
+    {
+      "item": "botania:manaresource|15",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_misc|5",
+      "emc": 128
     }
   ]
 }

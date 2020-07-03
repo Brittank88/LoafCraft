@@ -120,7 +120,6 @@
   "thaumcraft": "6.1.BETA26",
   "mcjtylib_ng": "3.5.4",
   "twilightforest": "3.10.1013",
-  "mob_grinding_utils": "0.3.13",
   "architecturecraft": "@VERSION@",
   "actuallybaubles": "1.1",
   "tinkertoolleveling": "1.12.2-1.1.0.DEV.b23e769",

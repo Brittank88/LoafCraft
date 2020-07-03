@@ -1,0 +1,1 @@
+mods.mekanism.reaction.addRecipe(<botania:manaresource:15>, <liquid:ender> * 1000, <gas:water> * 250, <minecraft:dragon_breath>, <gas:chlorine> * 100, 50000, 2000);
