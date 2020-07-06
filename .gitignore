@@ -12,6 +12,7 @@ usernamecache.json
 config/InvTweaks.cfg
 config/jei/jei.cfg
 config/jei/worldSettings.cfg
+config/jei/bookmarks.ini
 config/splash.properties
 config/thaumicjei_itemstack_aspects.json
 local/ftbutilities/backups.json
